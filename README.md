@@ -1,11 +1,17 @@
 <!-- Banner -->
-![Banner](https://i.ibb.co/3RWnMcD/modern-blue-developer-banner.png)
+![Banner](https://raw.githubusercontent.com/ipe-asmaul/ipe-asmaul/main/banner.png)
 
-<h1 align="center" style="font-size: 38px; font-weight: 800;">
+<!-- Greeting Line -->
+<h2 align="center" style="font-weight:600; margin-bottom: -10px;">
+  👋 Hi! I am
+</h2>
+
+<!-- Static Name -->
+<h1 align="center" style="font-size: 38px; font-weight: 800; margin-top: 0;">
   MD ASMAUL HOSSIN
 </h1>
 
-<!-- Typing animation under name -->
+<!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1200&color=4F8CFF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;MERN+Stack+Developer;React+Developer;Node.js+%26+Express+Developer;MongoDB+%7C+API+%7C+Backend+Development" />
 </p>
