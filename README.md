@@ -90,9 +90,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipe-asmaul&layout=compact&theme=transparent&hide_border=true" width="41%" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ipe-asmaul&theme=transparent&hide_border=true" width="60%" />
-</p>
 
 ---
 
