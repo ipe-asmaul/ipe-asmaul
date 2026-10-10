@@ -164,13 +164,7 @@ timeline
 
 <img src="https://streak-stats.demolab.com?user=ipe-asmaul&hide_border=true&background=000000&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E" alt="Streak" />
 
-<br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ipe-asmaul&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ipe-asmaul&bg_color=000000&color=00FF9C&line=00FF9C&point=FFFFFF&area=true&area_color=00FF9C&hide_border=true" width="100%" alt="Activity graph" />
 
 </div>
 
