@@ -14,7 +14,7 @@
 [![Repositories](https://img.shields.io/badge/REPOSITORIES-000000?style=for-the-badge&logo=gitbook&logoColor=00FF9C&labelColor=000000&color=00FF9C)](https://github.com/ipe-asmaul?tab=repositories)
 [![Followers](https://img.shields.io/github/followers/ipe-asmaul?style=for-the-badge&label=FOLLOWERS&labelColor=000000&color=00FF9C&logo=github&logoColor=00FF9C)](https://github.com/ipe-asmaul?tab=followers)
 
-![Views](https://komarev.com/ghpvc/?username=ipe-asmaul&label=PROFILE+VIEWS&color=00FF9C&labelColor=000000&style=flat-square)
+
 
 </div>
 
